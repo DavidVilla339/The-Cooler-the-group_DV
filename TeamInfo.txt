@@ -1,2 +1,6 @@
 Owner: David Villa david339villa@gmail.com 
+<<<<<<< HEAD
 Collaborators: Maryna maryna.korolova@my.utsa.edu, Carlos, Jasen
+=======
+Collaborators: Maryna (maryna.korolova@my.utsa.edu), Carlos (carlos.corral@my.utsa.edu), Jasen
+>>>>>>> 81e344e0123bbab3021c73b482edd1484c5a5277
